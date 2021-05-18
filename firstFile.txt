@@ -1,2 +1,3 @@
 Original contents of firstFile
 another line
+yet another line
